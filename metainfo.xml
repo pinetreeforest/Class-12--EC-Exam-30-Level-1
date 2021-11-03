@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="48C02866-17BC-48B3-A08B-FF23BA7E2A7D" version="0">
+	<info>
+		<title>Exam-30 Level I</title>
+		<description/>
+	</info>
+	<files index="id29" thumbnail="id25" totalSize="2640559">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/img-0cc842e30cf232b60da833864bf504057d0ecbf9.png</file>
+		<file id="id12">data/images/img-186812c558d2c51e67d9a474641ff4f93707669a.png</file>
+		<file id="id13">data/images/img-28da2b79fe606d98a0cb2492e01e72852a1ff9a9.png</file>
+		<file id="id14">data/images/img-3ced0b311a65f8bbd671ce2021bfb10db05a7dbf.png</file>
+		<file id="id15">data/images/img-92cd94f2b65ba2f68ba4ace100086eb4fb174f14.png</file>
+		<file id="id16">data/images/img-99a84309f78dc99e55f184c41af0ad7f83fe49b8.jpg</file>
+		<file id="id17">data/images/img-9b3ec98677deea7f0b53239a74eaee1ac8d869d4.png</file>
+		<file id="id18">data/images/img-cbe4eb3ad149126364386f789292b357729f7567.png</file>
+		<file id="id19">data/images/img-cfebfbf75033cb732b71f6b8750eb65dfc857a22.jpg</file>
+		<file id="id20">data/images/img-e03b4fd16d376017ab9648ec9954eca09aec9ec0.jpg</file>
+		<file id="id21">data/images/img-e26afb2befccdeecee9808231d99106d65031a80.jpg</file>
+		<file id="id22">data/images/img-eeff6761053a5b4b4bf14fbb9d99c6156fef0f3d.jpg</file>
+		<file id="id23">data/ismplayer/app_store2x.png</file>
+		<file id="id24">data/ismplayer/play.svg</file>
+		<file id="id25">data/ismplayer/preview.png</file>
+		<file id="id26">data/ismplayer/style.css</file>
+		<file id="id27">data/ismplayer/style_mini.css</file>
+		<file id="id28">data/player.js</file>
+		<file id="id29">index.html</file>
+		<file id="id30">ismplayer.html</file>
+		<file id="id31">preview.png</file>
+	</files>
+</presentation>
+
